@@ -1,0 +1,15 @@
+{
+  "name": "helloindia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "india.js",
+  "scripts": {
+    "test": "helloindia"
+  },
+  "keywords": [
+    "india",
+    "british_india"
+  ],
+  "author": "SUBHAJIT CHAKRABORTY",
+  "license": "ISC"
+}
